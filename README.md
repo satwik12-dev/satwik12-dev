@@ -1,13 +1,12 @@
 # Hi, I'm <SATWIK SAXENA>! 👋
 
-I am a passionate MBTech CS student at TMU Moradabad, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+I am a passionate BTech CS student at TMU Moradabad, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
-![<satwik12-dev>'s Stats](https://github-readme-stats.vercel.app/api?username=<satwik12-dev>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Satwik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=satwik12-dev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
 - 🔭 I'm currently pursuing my Bachelor in Computer Science at TMU Moradabad.
-- 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
 - 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
 - ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
 
