@@ -7,11 +7,6 @@ I am a passionate BTech CS student at TMU Moradabad, driven by a curiosity for t
 ## 🚀 About Me
 
 - 🔭 I'm currently pursuing my Bachelor in Computer Science at TMU Moradabad.
-- 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
-- ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
-
-## My Articles
-- [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
 
 
 ## Tech Stack
