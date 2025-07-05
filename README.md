@@ -29,7 +29,7 @@ I am a passionate BTech CS student at TMU Moradabad, driven by a curiosity for t
 
 ## 📬 Get in Touch
 
-- Connect with me on [LinkedIn](linkedin.com/in/satwik-12-dev)
+- Connect with me on [LinkedIn](www.linkedin.com/in/satwik-12-dev)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
