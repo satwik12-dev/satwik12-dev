@@ -61,7 +61,7 @@
 | **🎯 Number Guessing Game**  | Java                     | Simple logic-based interactive game    |
 | **🌐 Firebase Hosting**      | Firebase, HTML/CSS       | Hosted web applications                |
 
-🔗 **Visit my portfolio:** [satwik12-dev.web.app](https://website-af6b9.web.app)
+🔗 **Visit my portfolio:** [website-af6b9.web.app](https://website-af6b9.web.app)
 
 ---
 
