@@ -33,7 +33,6 @@ A passionate B.Tech Computer Science student at **Teerthanker Mahaveer Universit
 
 ## 🧩 Projects
 
-> *(Details Coming Soon — Add your project links and descriptions here for stronger visibility)*
 
 - ✅ Personal Portfolio Website
 - ✅ Currency Converter in Java using API
@@ -55,7 +54,7 @@ A passionate B.Tech Computer Science student at **Teerthanker Mahaveer Universit
 
 - 📧 Email: satwiksaxena41@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/satwik-12-dev](https://linkedin.com/in/satwik-12-dev)  
-- 🌐 Portfolio: *(Add your portfolio URL here)*
+- 🌐 Portfolio: [website-af6b9.web.app](https://website-af6b9.web.app)
 
 ---
 
