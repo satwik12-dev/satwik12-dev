@@ -1,70 +1,86 @@
-# 👋 Hi, I'm Satwik Saxena
+<h1 align="center">Hi 👋, I'm Satwik Saxena</h1>
 
-A passionate B.Tech Computer Science student at **Teerthanker Mahaveer University (TMU), Moradabad**, with a deep interest in full-stack web development, mobile app development, and technical writing. I’m driven by curiosity, creativity, and the constant desire to learn and build meaningful tech solutions.
+<p align="center">
+  💻 Full-Stack Web Developer | 📱 App Developer | ✍️ Tech Enthusiast  
+  <br />
+  🎓 B.Tech CS @ TMU Moradabad | 💡 Lifelong Learner | 🌐 Open Source Lover
+</p>
 
 ---
 
-![Satwik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=satwik12-dev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=satwik12-dev&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Satwik's GitHub stats" />
+</p>
+
+---
 
 ## 🚀 About Me
 
-- 🎓 Pursuing B.Tech in Computer Science at **TMU Moradabad**
-- 💻 Passionate about Web and App Development
-- ✍️ Love to write about tech and share insights with the community
-- 🧠 Strong foundation in problem-solving and algorithmic thinking
+- 🎓 Final-year B.Tech Computer Science student at **TMU Moradabad**
+- 🌐 Exploring the world of **Web** & **Mobile App Development**
+- 🧠 Strong grip on logic building and programming fundamentals
+- ✍️ I enjoy writing blogs & breaking down complex tech topics
+- 🔥 Currently diving into **React, Tailwind CSS, Django & PostgreSQL**
 
 ---
 
-## 🛠️ Tech Stack
+## 💼 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,python,nodejs,react,redux,tailwind,django,postgres,git,docker)](https://skillicons.dev)
-
----
-
-## 🌱 Currently Exploring
-
-- 📱 Mobile App Development using React Native & Android Studio
-- 🧩 Advanced React concepts: Hooks, Context API, Redux
-- 🌐 Full Stack Web Development (MERN & Django + PostgreSQL)
-- 🎨 UI/UX Design with Tailwind CSS
-- 🧪 Backend integration, REST APIs, and authentication
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,tailwind,django,postgres,java,python,git,docker" />
+</p>
 
 ---
 
-## 🧩 Projects
+## 🧠 Currently Learning
 
-
-- ✅ Personal Portfolio Website
-- ✅ Currency Converter in Java using API
-- ✅ Student Management System
-- ✅ Number Guessing Game
-- ✅ Firebase-hosted Web Projects
-
----
-
-## 🏆 Achievements
-
-- 🥇 Completed **IBM Certification Course** with 90% score
-- ⭐ **HackerRank** – SQL (Advanced) Badge Holder
-- 📜 Consistently participating in coding challenges and technical events
+- 📱 Mobile Development with **React Native & Android Studio**
+- 🌐 Advanced **React + Redux** and **React Router**
+- 🎨 UI/UX design practices with **Tailwind CSS**
+- ⚙️ Backend development using **Django REST Framework**
+- 🧪 Relational DBMS with **PostgreSQL**
 
 ---
 
-## 📫 Let's Connect!
+## 🌟 Achievements
 
-- 📧 Email: satwiksaxena41@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/satwik-12-dev](https://linkedin.com/in/satwik-12-dev)  
-- 🌐 Portfolio: [website-af6b9.web.app](https://website-af6b9.web.app)
-
----
-
-## 💬 More About Me
-
-- 👨‍💻 I’m looking to collaborate on real-time full-stack projects
-- 🤝 Looking for backend/database developers to team up
-- 💬 Ask me about web dev, mobile dev, or tech internships
-- ⚡ Fun fact: I enjoy breaking down complex tech ideas into simple blog-style notes!
+- 🏅 **IBM Certification** – Scored 90% in cloud & web modules
+- ⭐ **HackerRank** – Earned **Advanced SQL** certification
+- 💻 Built multiple portfolio & real-world level applications
+- 🎯 Active participant in tech events, hackathons & challenges
 
 ---
 
-Thanks for visiting! Let’s innovate, collaborate, and grow together 🚀
+## 📌 Featured Projects
+
+| Name                        | Tech Stack               | Description                            |
+|-----------------------------|--------------------------|----------------------------------------|
+| **💼 Portfolio Website**     | HTML, CSS, JS            | Personal website showcasing my work    |
+| **💸 Currency Converter**    | Java, API                | Real-time exchange rate calculator     |
+| **🧑‍🎓 Student Manager**      | Java, File Handling      | CLI-based student data management      |
+| **🎯 Number Guessing Game**  | Java                     | Simple logic-based interactive game    |
+| **🌐 Firebase Hosting**      | Firebase, HTML/CSS       | Hosted web applications                |
+
+---
+
+## 📬 Let's Connect
+
+<p align="center">
+  <a href="mailto:satwiksaxena41@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/satwik-12-dev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href = "https://website-af6b9.web.app" target="_blank"></a>
+</p>
+
+---
+
+## 💬 Fun & Facts
+
+- 👨‍💻 Always building or learning something new!
+- 🤝 Looking for collaborators for backend/database projects
+- 📚 Tech is my playground, curiosity is my compass
+
+---
+
+<p align="center">
+  Thanks for stopping by! Let's build something amazing together 🚀
+</p>
