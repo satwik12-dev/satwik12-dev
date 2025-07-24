@@ -1,49 +1,71 @@
-# Hi, I'm SATWIK SAXENA! 👋
+# 👋 Hi, I'm Satwik Saxena
 
-I am a passionate BTech CS student at TMU Moradabad, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+A passionate B.Tech Computer Science student at **Teerthanker Mahaveer University (TMU), Moradabad**, with a deep interest in full-stack web development, mobile app development, and technical writing. I’m driven by curiosity, creativity, and the constant desire to learn and build meaningful tech solutions.
+
+---
 
 ![Satwik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=satwik12-dev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my Bachelor in Computer Science at TMU Moradabad.
+- 🎓 Pursuing B.Tech in Computer Science at **TMU Moradabad**
+- 💻 Passionate about Web and App Development
+- ✍️ Love to write about tech and share insights with the community
+- 🧠 Strong foundation in problem-solving and algorithmic thinking
 
+---
 
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,git,docker,nodejs)](https://skillicons.dev)
+## 🛠️ Tech Stack
 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,python,nodejs,react,redux,tailwind,django,postgres,git,docker)](https://skillicons.dev)
+
+---
 
 ## 🌱 Currently Exploring
 
-- 🚀 Learning Full Stack Web Development
-  - Exploring the android development
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Navigating through the world of React Router for seamless page transitions.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Django, a powerful Python web framework.
-  - Diving into PostgreSQL for efficient and scalable database management.
+- 📱 Mobile App Development using React Native & Android Studio
+- 🧩 Advanced React concepts: Hooks, Context API, Redux
+- 🌐 Full Stack Web Development (MERN & Django + PostgreSQL)
+- 🎨 UI/UX Design with Tailwind CSS
+- 🧪 Backend integration, REST APIs, and authentication
 
- ## 🏆 Achievements
+---
 
-- 🌟   I Have done IBM certification course with accuracy of 90% and also HackerRank with sql advanced
+## 🧩 Projects
 
-## 📬 Get in Touch
+> *(Details Coming Soon — Add your project links and descriptions here for stronger visibility)*
 
-- Connect with me on [LinkedIn](www.linkedin.com/in/satwik-12-dev)
+- ✅ Personal Portfolio Website
+- ✅ Currency Converter in Java using API
+- ✅ Student Management System
+- ✅ Number Guessing Game
+- ✅ Firebase-hosted Web Projects
 
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+---
 
+## 🏆 Achievements
 
+- 🥇 Completed **IBM Certification Course** with 90% score
+- ⭐ **HackerRank** – SQL (Advanced) Badge Holder
+- 📜 Consistently participating in coding challenges and technical events
 
+---
 
-Here are some ideas to get you started:
+## 📫 Let's Connect!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Mobile App Development
-- 👯 I’m looking to collaborate on Real time Projects
-- 🤔 I’m looking for help with Backend and datbase people for my project
-- 💬 Ask me about Web dev and mobile dev
-- 📫 How to reach me: 
-     Email: satwiksaxena41@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+- 📧 Email: satwiksaxena41@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/satwik-12-dev](https://linkedin.com/in/satwik-12-dev)  
+- 🌐 Portfolio: *(Add your portfolio URL here)*
+
+---
+
+## 💬 More About Me
+
+- 👨‍💻 I’m looking to collaborate on real-time full-stack projects
+- 🤝 Looking for backend/database developers to team up
+- 💬 Ask me about web dev, mobile dev, or tech internships
+- ⚡ Fun fact: I enjoy breaking down complex tech ideas into simple blog-style notes!
+
+---
+
+Thanks for visiting! Let’s innovate, collaborate, and grow together 🚀
