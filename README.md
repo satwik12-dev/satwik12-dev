@@ -59,7 +59,7 @@
 | **💸 Currency Converter**    | Java, API                | Real-time exchange rate calculator     |
 | **🧑‍🎓 Student Manager**      | Java, File Handling      | CLI-based student data management      |
 | **🎯 Number Guessing Game**  | Java                     | Simple logic-based interactive game    |
-| **🌐 Firebase Hosting**      | Firebase, HTML/CSS       | Hosted web applications                |
+| **🌐 Hospital Management**      | Java ,JDBC     | CLI-based hosiptal data manager               |
 
 🔗 **Visit my portfolio:** [website-af6b9.web.app](https://website-af6b9.web.app)
 
