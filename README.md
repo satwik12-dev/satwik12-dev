@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Satwik Saxena</h1>
 
 <p align="center">
-  💻 Full-Stack Web Developer | 📱 App Developer | ✍️ Tech Enthusiast  
+  💻 Full-Stack Web Developer | ✍️ Tech Enthusiast  
   <br />
   🎓 B.Tech CS @ TMU Moradabad | 💡 Lifelong Learner | 🌐 Open Source Lover
 </p>
