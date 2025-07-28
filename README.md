@@ -27,7 +27,7 @@
 ## 💼 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,tailwind,django,postgres,java,python,git,docker" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,tailwind,django,postgres,java,python,git,docker" />
 </p>
 
 ---
