@@ -9,7 +9,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satwik12-dev&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Satwik's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=satwik12dev&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Satwik's GitHub stats" />
 </p>
 
 ---
